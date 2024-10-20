@@ -97,7 +97,7 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 - As maiores variações no tempo de entrega, acontecem durante o clima ensoladao.
 #
 ### Conclusão
-O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
+O objetivo desse projeto é criar um conjunto de gráficos e tabelas que exibam essas métricas da melhor forma possível para o CEO.
 
 Da visão da Empresa, podemos concluir que o número de pedidos
 cresceu entre a semana 06 e a semana 13 do ano de 2022.
